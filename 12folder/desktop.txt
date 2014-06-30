@@ -1,10 +1,8 @@
-<<<<<<< HEAD
 i m created from desktop jj
 
 
 version 1
 
 version2
-=======
-i m created from desktop jj
->>>>>>> parent of 2ebf7ad... 1
+
+version 3
